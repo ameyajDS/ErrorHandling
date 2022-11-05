@@ -1,4 +1,4 @@
-package CustomError
+package customerror
 
 import "net/http"
 

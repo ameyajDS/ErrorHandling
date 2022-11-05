@@ -1,4 +1,4 @@
-package CustomError
+package customerror
 
 type TransferRequest struct {
 	PayerAcc string

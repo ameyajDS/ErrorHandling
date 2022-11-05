@@ -1,4 +1,4 @@
-package SimpleError
+package simpleerror
 
 import "errors"
 
